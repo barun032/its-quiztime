@@ -1,10 +1,10 @@
 # Quiz App
 
 ## Description
-This is a simple quiz app built with HTML, CSS, and JavaScript. It asks multiple-choice questions related to web development (HTML, CSS, JavaScript) and provides feedback on correct or incorrect answers. The app includes a timer for each question and tracks your highest score.
+This is a simple quiz app built with HTML, CSS, and JavaScript. It asks multiple-choice questions and provides feedback on correct or incorrect answers. The app includes a timer for each question and tracks your highest score.
 
 ## Features
-- Multiple-choice questions about web development.
+- Multiple-choice questions.
 - Timer for each question (30 seconds).
 - Score tracking with the highest score displayed.
 - Sound effects for correct and incorrect answers, with an option to mute.
