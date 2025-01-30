@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quize time</title>
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="home-page">
+        <div class="logo">
+            <img src="./images/logo.png" alt="logo">
+        </div>
+        <div class="start-button">
+            <button class="start-now-btn">Start Now >>></button>
+        </div>
+        <p>Score: <span class="score">0</span></p>
+        <p class="show-score">Highest Score: 20/25</p>
+    </div>  
+
+    <main class="close">
+        <div class="main-container">
+            <section class="heading-section">
+                <div class="logo-and-icon">
+                    <div class="quiz-icon">
+                        <img src="./images/logo.png" alt="logo">
+                    </div>
+                    <div class="speaker-icon">
+                        <img id="speaker" title="mute/unmute" src="./images/volume.png" alt="sound">
+                    </div>
+
+                    <audio class="sound" id="correct-sound">
+                        <source src="./sound/correct.mp3" type="audio/mp3">
+                    </audio>
+                    <audio class="sound" id="in-correct-sound">
+                        <source src="./sound/wrong.mp3" type="audio/mp3">
+                    </audio>
+
+                </div>
+                <div class="questions-count">
+                    <div><span class="current-question">02</span>/<span class="total-question">25</span></div>
+                </div>
+                <div class="questions-container">
+                    <h2 class="questions">Inside which HTML element do we put the JavaScript?</h2>
+                </div>
+                <div class="timer-container">
+                    <span class="timer">00:30</span>
+                </div>
+            </section>
+
+            <section class="answer-section">
+                <div class="answers-container">
+                    <div class="answer">Hello world</div>
+                    <div class="correct">
+                        <img class="correct-icon" src="./images/tick-mark.png" alt="tick">
+                    </div>
+                    <div class="incorrect">
+                        <span class="incorrect-label">You choose</span>
+                        <div class="incorrect-icon">
+                            <span>&times;</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="answers-container">
+                    <div class="answer">Hello world</div>
+
+                    <div class="correct">
+                        <img class="correct-icon" src="./images/tick-mark.png" alt="tick">
+                    </div>
+                    <div class="incorrect">
+                        <span class="incorrect-label">You choose</span>
+                        <div class="incorrect-icon">
+                            <span>&times;</span>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="answers-container">
+                    <div class="answer">Hello world</div>
+                    <div class="correct">
+                        <img class="correct-icon" src="./images/tick-mark.png" alt="tick">
+                    </div>
+                    <div class="incorrect">
+                        <span class="incorrect-label">You choose</span>
+                        <div class="incorrect-icon">
+                            <span>&times;</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="answers-container">
+                    <div class="answer">Hello world</div>
+                    <div class="correct">
+                        <img class="correct-icon" src="./images/tick-mark.png" alt="tick">
+                    </div>
+                    <div class="incorrect">
+                        <span class="incorrect-label">You choose</span>
+                        <div class="incorrect-icon">
+                            <span>&times;</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="btn">
+                <button class="next-btn">Next ></button>
+            </div>
+
+            <div class="footer">
+                <p>Made with ❤️ by Barun Mandal</p>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
