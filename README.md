@@ -1,22 +1,23 @@
-Project Name: Quiz App
-Description: This is a simple quiz app built with HTML, CSS, and JavaScript. It asks multiple-choice questions about web development (HTML, CSS, JavaScript) and provides feedback on whether the answers are correct or incorrect. The app also features a timer for each question and keeps track of your highest score.
+# Quiz App
 
-#Features:
+## Description
+This is a simple quiz app built with HTML, CSS, and JavaScript. It asks multiple-choice questions related to web development (HTML, CSS, JavaScript) and provides feedback on correct or incorrect answers. The app includes a timer for each question and tracks your highest score.
 
-Multiple-choice questions about web development.
-Timer for each question (30 seconds).
-Score tracking: Displays your score at the end and keeps track of your highest score.
-Sound effects: Plays sounds for correct and incorrect answers, with an option to mute them.
-Responsive design: Works well on different screen sizes.
-How to Use:
+## Features
+- Multiple-choice questions about web development.
+- Timer for each question (30 seconds).
+- Score tracking with the highest score displayed.
+- Sound effects for correct and incorrect answers, with an option to mute.
+- Responsive design that works on various screen sizes.
 
-Click the "Start Now" button to begin the quiz.
-Answer the questions by selecting one of the options.
-Click "Next" to go to the next question.
-After finishing all questions, see your score.
-Click the speaker icon to mute or unmute sounds.
-Technologies Used:
+## How to Use
+1. Click the **"Start Now"** button to begin the quiz.
+2. Answer the questions by selecting one of the options.
+3. Click **"Next"** to move to the next question.
+4. After finishing all questions, your score will be displayed.
+5. Click the speaker icon to mute or unmute the sound effects.
 
-HTML for the structure.
-CSS for styling.
-JavaScript for functionality and score tracking.
+## Technologies Used
+- **HTML** for the structure of the app.
+- **CSS** for styling and layout.
+- **JavaScript** for quiz functionality, score tracking, and timer.
