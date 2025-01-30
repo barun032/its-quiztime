@@ -1,7 +1,7 @@
 Project Name: Quiz App
 Description: This is a simple quiz app built with HTML, CSS, and JavaScript. It asks multiple-choice questions about web development (HTML, CSS, JavaScript) and provides feedback on whether the answers are correct or incorrect. The app also features a timer for each question and keeps track of your highest score.
 
-Features:
+#Features:
 
 Multiple-choice questions about web development.
 Timer for each question (30 seconds).
