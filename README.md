@@ -21,3 +21,6 @@ This is a simple quiz app built with HTML, CSS, and JavaScript. It asks multiple
 - **HTML** for the structure of the app.
 - **CSS** for styling and layout.
 - **JavaScript** for quiz functionality, score tracking, and timer.
+
+- ![image](https://github.com/user-attachments/assets/5d51e52e-11c8-4a6a-896a-da789f78300e)
+
