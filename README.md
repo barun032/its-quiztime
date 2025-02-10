@@ -23,4 +23,8 @@ This is a simple quiz app built with HTML, CSS, and JavaScript. It asks multiple
 - **JavaScript** for quiz functionality, score tracking, and timer.
 
 - ![image](https://github.com/user-attachments/assets/5d51e52e-11c8-4a6a-896a-da789f78300e)
+- ![image](https://github.com/user-attachments/assets/2801c217-071a-4d34-9aa9-2b4b10a31711)
+- ![image](https://github.com/user-attachments/assets/b5562150-5f99-4dd0-a067-8762c3462297)
+
+
 
